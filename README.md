@@ -1,4 +1,4 @@
-## # ¡Hola! Soy LAmya
+## ¡Hola! Soy Lamya Chaoui :)
 
 ## Sobre mí / Bio
 Graduada en **Diseño de Interacciones Digitales y Multimedia** y actualmente cursando una **FP de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona el diseño de experiencia de usuario y la construcción de aplicaciones web. Mi objetivo profesional es desarrollarme como Desarrolladora Web Full Stack, combinando habilidades de diseño con desarrollo backend y frontend.
